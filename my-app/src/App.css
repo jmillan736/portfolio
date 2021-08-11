@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  display: flex;
+  height: 100vh;
+}
+
+.App-sideBar {
+  background-color:blue;
+  color:aliceblue;
+  height: 100%;
+  width: 200px;
+}
+.sideBar-List {
+  display: flex;
+  flex-direction: column;
+
+}
+
+a, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: inherit;
+}
