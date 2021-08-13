@@ -5,11 +5,19 @@
 }
 
 .App-sideBar {
-  background-color:blue;
-  color:aliceblue;
+  background-color:blanchedalmond;
+  color:black;
   height: 100%;
   width: 200px;
 }
+
+.App-mainPage {
+  background-image: url('Images/spiaderman.jpg');
+  background-color:black;
+  color:aliceblue;
+  width:100%;
+}
+
 .sideBar-List {
   display: flex;
   flex-direction: column;

@@ -17,7 +17,7 @@ export const SideBar = () => {
                     About
                 </Link>
                 <a href="https://github.com/jmillan736" target="_blank" rel="noopener noreferrer">
-                    <GitHub color='white' />
+                    <GitHub color='black' />
                 </a>
             </div>
         </div>

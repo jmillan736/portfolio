@@ -1,3 +1,9 @@
+import '../App.css';
+
 export const MainPage = () => {
-    return <div>MainPage</div>
+    return (
+    <div className='App-mainPage'>
+        MainPage
+    </div>
+    )
 };
