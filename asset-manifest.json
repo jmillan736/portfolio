@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1514835a.chunk.css",
+    "main.js": "/portfolio/static/js/main.f38d0bdd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f38d0bdd.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.74d6fcfe.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.74d6fcfe.js.map",
+    "static/js/2.0509727b.chunk.js": "/portfolio/static/js/2.0509727b.chunk.js",
+    "static/js/2.0509727b.chunk.js.map": "/portfolio/static/js/2.0509727b.chunk.js.map",
+    "static/js/3.e33b8d7a.chunk.js": "/portfolio/static/js/3.e33b8d7a.chunk.js",
+    "static/js/3.e33b8d7a.chunk.js.map": "/portfolio/static/js/3.e33b8d7a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.1514835a.chunk.css.map": "/portfolio/static/css/main.1514835a.chunk.css.map",
+    "static/js/2.0509727b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0509727b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/spiaderman.2f3486a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74d6fcfe.js",
+    "static/js/2.0509727b.chunk.js",
+    "static/css/main.1514835a.chunk.css",
+    "static/js/main.f38d0bdd.chunk.js"
+  ]
+}
