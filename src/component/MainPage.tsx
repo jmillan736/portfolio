@@ -3,7 +3,10 @@ import '../App.css';
 export const MainPage = () => {
     return (
     <div className='App-mainPage'>
-        MainPage
+        WELCOME!!!
+        <div className='sussy-Spot'>
+            SUS
+        </div>
     </div>
     )
 };
